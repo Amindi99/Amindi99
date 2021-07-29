@@ -1,5 +1,6 @@
 ### Hi there 👋
-Information Technology Undergraduate 
+I'm Amindi Perera
+Undergraduate Student.
 
 <!--
 **Amindi99/Amindi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
