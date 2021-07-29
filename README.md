@@ -1,7 +1,5 @@
 ### Hi there 👋
-I'm Amindi Perera
-Undergraduate Student.
-
+Undergraduate student @ SLIIT
 <!--
 **Amindi99/Amindi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
