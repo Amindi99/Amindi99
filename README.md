@@ -8,6 +8,8 @@ I'm Amindi, a dedicated Associate Software Quality Assurance Engineer with a pas
 * Methodologies: Agile, Scrum
 * Experience: One years of experience in testing web and mobile applications for various industries, including e-commerce, finance.
 
+  ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+
 <!--Key Strengths:
 
 - Designing and executing comprehensive test plans and test cases.
