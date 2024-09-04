@@ -8,7 +8,8 @@ I'm Amindi, a dedicated Associate Software Quality Assurance Engineer with a pas
 * Methodologies: Agile, Scrum
 * Experience: One years of experience in testing web and mobile applications for various industries, including e-commerce, finance.
 
-Key Strengths:
+<!--Key Strengths:
+
 - Designing and executing comprehensive test plans and test cases.
 - Developing and maintaining automated test scripts.
 - Collaborating with development teams to identify and resolve defects.
@@ -16,7 +17,7 @@ Key Strengths:
 - Implementing continuous integration and continuous testing strategies.
 - Strong analytical skills and attention to detail.
 
-<!--
+
 **Amindi99/Amindi99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
