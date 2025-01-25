@@ -6,7 +6,7 @@ I'm Amindi, a dedicated Associate Software Quality Assurance Engineer with a pas
 * Specialization: Automation Testing, Manual Testing
 * Tools & Technologies: Selenium, JIRA, Postman, jMeter, Git
 * Methodologies: Agile, Scrum
-* Experience: One years of experience in testing web and mobile applications for various industries, including e-commerce, finance.
+* Experience: One year + of experience in testing web and mobile applications for various industries, including e-commerce, finance.
 
   
 
