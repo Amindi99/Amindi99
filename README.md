@@ -1,5 +1,5 @@
 ### Hi there 👋 
-I'm Amindi, a dedicated Associate Software Quality Assurance Engineer with a passion for ensuring software excellence. My expertise lies in meticulously testing, identifying, and resolving issues to deliver high-quality software products. I have experience working with diverse technologies and methodologies, ensuring that every piece of software I work on meets the highest standards of quality.
+I'm Amindi, a dedicated Software Quality Assurance Engineer with a passion for ensuring software excellence. My expertise lies in meticulously testing, identifying, and resolving issues to deliver high-quality software products. I have experience working with diverse technologies and methodologies, ensuring that every piece of software I work on meets the highest standards of quality.
 
  ### 💼 Profile Overview
 * Role: Software Quality Assurance Engineer
