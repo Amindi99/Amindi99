@@ -2,11 +2,11 @@
 I'm Amindi, a dedicated Associate Software Quality Assurance Engineer with a passion for ensuring software excellence. My expertise lies in meticulously testing, identifying, and resolving issues to deliver high-quality software products. I have experience working with diverse technologies and methodologies, ensuring that every piece of software I work on meets the highest standards of quality.
 
  ### 💼 Profile Overview
-* Role: Associate Software Quality Assurance Engineer
+* Role: Software Quality Assurance Engineer
 * Specialization: Automation Testing, Manual Testing
-* Tools & Technologies: Selenium, JIRA, Postman, jMeter, Git
+* Tools & Technologies: Selenium, JIRA, Postman, jMeter, Git, Robot Framework
 * Methodologies: Agile, Scrum
-* Experience: One year + of experience in testing web and mobile applications for various industries, including e-commerce, finance.
+* Experience: Two year + of experience in testing web and mobile applications for various industries.
 
   
 
